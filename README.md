@@ -15,4 +15,4 @@ git clone https://github.com/RoseKissYou/thinkphp5.1all.git
 
 
 2 放到搭建好的web服务器即可
-- ![输入图片说明](https://raw.githubusercontent.com/RoseKissYou/thinkphp5.1all/master/5.png"微信图片_20181219105915.jpg")
+- ![成功实例](https://raw.githubusercontent.com/RoseKissYou/thinkphp5.1all/master/5.png "实例.jpg")
